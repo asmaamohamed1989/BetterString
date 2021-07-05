@@ -1,0 +1,2 @@
+betterstring.CompareString
+betterstring.LambdaStringCompare
